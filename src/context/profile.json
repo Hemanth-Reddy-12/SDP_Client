@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://img.freepik.com/premium-vector/personal-profile-document-with-photo-id-my-account-icon-isolated-flat-cartoon_101884-748.jpg?w=740",
+    "username": "admin ",
+    "fullName": "ADMIN",
+    "gender": "male",
+    "age": "25",
+    "DoB": "0-06-1998",
+    "phoneno": "7854962130",
+    "email": "admin1@gmail.com"
+  },
+  {
+    "url": "https://img.freepik.com/premium-vector/personal-profile-document-with-photo-id-my-account-icon-isolated-flat-cartoon_101884-748.jpg?w=740",
+    "username": "admin2",
+    "fullName": "ADMIN",
+    "gender": "male",
+    "age": "24",
+    "DoB": "05-05-1995",
+    "phoneno": "7589692589",
+    "email": "admin2@gmail.com"
+  },
+  {
+    "url": "https://img.freepik.com/premium-vector/personal-profile-document-with-photo-id-my-account-icon-isolated-flat-cartoon_101884-748.jpg?w=740",
+    "username": "admin3",
+    "fullName": "ADMIN",
+    "gender": "MALE",
+    "age": "23",
+    "DoB": "02-09-1996",
+    "phoneno": "703525785",
+    "email": "admin3@gmail.com"
+  },
+  {
+    "url": "https://img.freepik.com/premium-vector/personal-profile-document-with-photo-id-my-account-icon-isolated-flat-cartoon_101884-748.jpg?w=740",
+    "username": "admin4",
+    "fullName": "ADMIN",
+    "gender": "male",
+    "age": "22",
+    "DoB": "09-02-1997",
+    "phoneno": "7013530836",
+    "email": "admin4@gmail.com"
+  }
+]
